@@ -4,3 +4,6 @@
 [submodule "taive/submodule"]
 	path = taive/submodule
 	url = https://github.com/zunohoang/edu-market.git
+[submodule "taive2/submodule"]
+	path = taive2/submodule
+	url = https://github.com/zunohoang/edu-market.git
